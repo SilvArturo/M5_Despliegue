@@ -1,0 +1,1 @@
+streamlit run --browser.serverAddress $SERVERNAME --server.port $PORT main.py
